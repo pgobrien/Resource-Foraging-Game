@@ -1,0 +1,19 @@
+Team 03: Yellow
+Members:
+Holly Zhang (zhanghol)
+Patrick O'Brien (pgobiren)
+Jacob Beauchamp (jacobeau)
+-------------------------------------------------------------------
+Submission Date:
+12/12/2018
+-------------------------------------------------------------------
+Files:
+workinga02Code/GoL   (this contains the IntelliJ project folder)
+README-a04C322-Team#3.txt
+A04 UML Diagram.pdf
+team03-student-contract.txt
+-------------------------------------------------------------------
+Student Contract:
+We have read, and accepted, the the IU Code of Student Rights,
+Responsibilities, & Conduct. In particular, I agree to "Uphold
+and maintain academic and professional honesty and integrity".
